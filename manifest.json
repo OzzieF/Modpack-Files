@@ -1,0 +1,169 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2838",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "TekTopia Extended",
+  "version": "0.0.1",
+  "author": "Callial",
+  "files": [
+    {
+      "projectID": 237701,
+      "fileID": 2560638,
+      "required": true
+    },
+    {
+      "projectID": 272637,
+      "fileID": 2750792,
+      "required": true
+    },
+    {
+      "projectID": 246339,
+      "fileID": 2643374,
+      "required": true
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2639533,
+      "required": true
+    },
+    {
+      "projectID": 267602,
+      "fileID": 2642375,
+      "required": true
+    },
+    {
+      "projectID": 285687,
+      "fileID": 2719032,
+      "required": true
+    },
+    {
+      "projectID": 308705,
+      "fileID": 2652461,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2619468,
+      "required": true
+    },
+    {
+      "projectID": 250898,
+      "fileID": 2701066,
+      "required": true
+    },
+    {
+      "projectID": 241588,
+      "fileID": 2512726,
+      "required": true
+    },
+    {
+      "projectID": 319404,
+      "fileID": 2708193,
+      "required": true
+    },
+    {
+      "projectID": 223094,
+      "fileID": 2482481,
+      "required": true
+    },
+    {
+      "projectID": 69118,
+      "fileID": 2664449,
+      "required": true
+    },
+    {
+      "projectID": 270789,
+      "fileID": 2623090,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 2755458,
+      "required": true
+    },
+    {
+      "projectID": 295042,
+      "fileID": 2623120,
+      "required": true
+    },
+    {
+      "projectID": 295043,
+      "fileID": 2715785,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2671937,
+      "required": true
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2716379,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 2731319,
+      "required": true
+    },
+    {
+      "projectID": 247393,
+      "fileID": 2693660,
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 2695388,
+      "required": true
+    },
+    {
+      "projectID": 268495,
+      "fileID": 2735704,
+      "required": true
+    },
+    {
+      "projectID": 231095,
+      "fileID": 2720655,
+      "required": true
+    },
+    {
+      "projectID": 69162,
+      "fileID": 2716100,
+      "required": true
+    },
+    {
+      "projectID": 247401,
+      "fileID": 2763132,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2682936,
+      "required": true
+    },
+    {
+      "projectID": 333029,
+      "fileID": 2763046,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 2496585,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
